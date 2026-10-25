@@ -1,0 +1,16 @@
+# Secrets
+.env
+.env.*
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# Local data and database
+data/raw/
+data/dataguard.db
+
+# Test artifacts
+.pytest_cache/
